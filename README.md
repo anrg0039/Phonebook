@@ -16,7 +16,7 @@ By clicking on third option you can list all the contacts that is there in the d
 
 You need to run the server in your computer using 'npm start' command on Project file, then on any browser you can type 'localhost:3000', You will be able to run the application.
 
-#Deployed on Heroku
+# Deployed on Heroku
 
 Link https://phonebookbyanurag.herokuapp.com/
 
