@@ -1,0 +1,9 @@
+u1.success li{
+	padding: 15px;
+	margin-bottom: 20px;
+	border: 1px solid transparent;
+	border-radius: 4px;
+	color: #3c763d;
+	background-color: #dff04d;
+	border-color: #d6e9c6;
+}

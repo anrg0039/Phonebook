@@ -1,0 +1,7 @@
+extends layout
+block content
+ ul
+  each user in users
+   li #{user.name} &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#{user.phone}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#{user.email}&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;#{user.dob} 
+   a(href='/users/update') Update &nbsp;&nbsp;&nbsp;&nbsp;
+   a(href='/users/delete') Delete

@@ -1,0 +1,10 @@
+extends layout
+
+block content
+ h5.page-header Search Contact
+  p Please enter name of the contact
+  form(method='post',action='/users/search',enctype='multipart/form-data')
+   .form-group
+    label Name
+    input.form-control(name='name',type='text',placeholder='Enter Name')
+    input.btn.btn-primary(type ='submit', name ='submit', value = 'Search')
