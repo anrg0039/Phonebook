@@ -15,3 +15,13 @@ By clicking on third option you can list all the contacts that is there in the d
 # To run on a local computer
 
 You need to run the server in your computer using 'npm start' command on Project file, then on any browser you can type 'localhost:3000', You will be able to run the application.
+
+#Deployed on Heroku
+
+Link https://phonebookbyanurag.herokuapp.com/
+
+List module is not working on heroku, not getting why, will update if I found.
+
+
+Here is snippet, how it looks on my local computer.
+https://drive.google.com/file/d/10yoEKAPAx3vQnDRBgQFqEdZznDNpOZLH/view?usp=sharing
